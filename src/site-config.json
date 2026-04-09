@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Power Construction USA - LLC",
+    "phone": "+13478338215",
+    "category": "remodeling contractor",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Trusted Remodeling Pros",
+      "heroSubline": "Power Construction USA - LLC: Transforming homes in Philadelphia and beyond. Expert craftsmanship, lasting results.",
+      "aboutTitle": "Built on Integrity, Powered by Expertise",
+      "aboutText": [
+        "Power Construction USA - LLC started with a simple mission: to deliver honest, reliable remodeling services to our neighbors in Philadelphia. We saw a need for contractors who prioritize quality and communication, and we built our company on those principles.",
+        "We're not just builders; we're problem-solvers. We approach every project with meticulous planning and attention to detail. We pride ourselves on clear communication, transparent pricing, and exceeding expectations, no matter the project size.",
+        "Philadelphia is our home, and we're committed to giving back to our community. We source materials locally whenever possible, support local businesses, and strive to create lasting improvements for the city we love."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering quality workmanship on every project."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, clear and detailed estimates from start to finish."
+        },
+        {
+          "title": "Reliable Communication",
+          "description": "We keep you informed throughout the entire remodeling process."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Philadelphia's unique building styles and challenges."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact Power Construction USA - LLC today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Revitalize your kitchen with expert design and construction.",
+        "description": "The kitchen is the heart of your home, and we understand the importance of creating a space that's both functional and beautiful. Whether you're looking for a complete overhaul or a simple refresh, Power Construction USA - LLC can bring your vision to life. We handle everything from initial design and layout to cabinet installation, countertop selection, and appliance upgrades. We navigate Philadelphia's unique row house kitchen layouts with ease. We consider the age and style of your home to ensure a cohesive and timeless design. We'll manage every aspect of the project, ensuring minimal disruption to your daily life. Our experienced team ensures that the final result meets your needs and exceeds your expectations. We handle plumbing, electrical, and structural modifications with expertise. We deliver kitchens that are as durable as they are beautiful, built to withstand years of use.",
+        "process": [
+          "Step 1: Initial Consultation & Design",
+          "Step 2: Material Selection & Budgeting",
+          "Step 3: Demolition & Construction",
+          "Step 4: Finishing Touches & Inspection"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you handle plumbing and electrical work?",
+            "answer": "Yes, we have licensed and experienced plumbers and electricians on our team who can handle all necessary plumbing and electrical work during your kitchen remodel."
+          },
+          {
+            "question": "What is the cost of a kitchen remodel?",
+            "answer": "Kitchen remodel costs vary significantly based on the size, materials, and complexity of the project. We offer free estimates to provide you with a tailored quote based on your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a relaxing and functional space.",
+        "description": "From minor updates to complete overhauls, Power Construction USA - LLC offers comprehensive bathroom remodeling services in Philadelphia. We understand the challenges of working with older row house bathrooms and can maximize space and functionality. Our services include fixture replacement, tiling, vanity installation, shower and tub upgrades, and custom design solutions. We pay close attention to detail and ensure that every aspect of your new bathroom is perfectly executed. We work with high-quality materials and skilled tradespeople to deliver lasting results. We also handle all necessary permits and inspections, ensuring a smooth and hassle-free remodeling experience. We can help you create a spa-like retreat or a functional family bathroom that meets your needs and reflects your personal style. We also specialize in accessible bathroom design for homeowners looking to age in place.",
+        "process": [
+          "Step 1: Consultation & Design Planning",
+          "Step 2: Material Selection & Budget Approval",
+          "Step 3: Demolition & Fixture Removal",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased Comfort",
+          "Improved Home Value",
+          "Enhanced Functionality",
+          "Modernized Design"
+        ],
+        "faq": [
+          {
+            "question": "Can you help with bathroom design ideas?",
+            "answer": "Absolutely! We have a team of experienced designers who can help you create a bathroom that meets your needs and reflects your style. We'll consider your budget, space, and personal preferences to develop a design plan that you'll love."
+          },
+          {
+            "question": "Do I need a permit for a bathroom remodel?",
+            "answer": "In many cases, a permit is required for bathroom remodeling, especially if you're moving plumbing or electrical fixtures. We'll handle all necessary permit applications and inspections to ensure compliance with local regulations."
+          },
+          {
+            "question": "How can I maximize space in a small bathroom?",
+            "answer": "We have several strategies for maximizing space in small bathrooms, including using wall-mounted fixtures, installing a corner shower, and incorporating clever storage solutions. We can help you design a bathroom that feels spacious and functional, even in a compact area."
+          }
+        ]
+      },
+      {
+        "slug": "basement-remodeling",
+        "name": "Basement Remodeling",
+        "shortDescription": "Unlock the potential of your basement with a custom remodel.",
+        "description": "Don't let your basement sit unfinished! Power Construction USA - LLC can transform your underutilized basement into a valuable living space. We handle all aspects of basement remodeling, from framing and insulation to drywall, flooring, and finishing. We understand the unique challenges of Philadelphia basements, including moisture control and low ceilings. We can help you create a home theater, a playroom, a home office, or an extra bedroom. We ensure that your new basement is comfortable, safe, and compliant with all building codes. We also offer waterproofing services to protect your investment from water damage. We will add value to your home and create a functional and enjoyable space for your family.",
+        "process": [
+          "Step 1: Initial Consultation & Assessment",
+          "Step 2: Design & Permitting",
+          "Step 3: Framing & Insulation",
+          "Step 4: Finishing & Fixture Installation"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Customized Design",
+          "Improved Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "Do I need to worry about moisture in my basement?",
+            "answer": "Yes, moisture is a common concern in Philadelphia basements. We offer waterproofing services and can recommend solutions to prevent water damage and mold growth."
+          },
+          {
+            "question": "Can you help with designing a layout for my basement?",
+            "answer": "Absolutely! Our design team can help you create a functional and aesthetically pleasing layout that maximizes your basement space and meets your specific needs."
+          },
+          {
+            "question": "What type of flooring is best for a basement?",
+            "answer": "Water-resistant flooring options like tile, vinyl, and engineered wood are generally best for basements. We can help you choose a flooring material that is durable, comfortable, and stylish."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Create the perfect outdoor living space for your home.",
+        "description": "Extend your living space outdoors with a custom deck or patio from Power Construction USA - LLC. We design and build decks and patios that are both beautiful and functional, tailored to your specific needs and preferences. We use high-quality materials and skilled craftsmanship to ensure that your new outdoor space is built to last. We handle all aspects of the project, from design and permitting to construction and finishing. Whether you're looking for a simple patio for grilling or a multi-level deck for entertaining, we can bring your vision to life. We understand the importance of creating an outdoor space that complements your home's architecture and enhances your lifestyle. We consider the Philadelphia climate when selecting materials and designing your outdoor space, ensuring that it can withstand the elements.",
+        "process": [
+          "Step 1: Design Consultation & Planning",
+          "Step 2: Material Selection & Permitting",
+          "Step 3: Site Preparation & Construction",
+          "Step 4: Finishing & Inspection"
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Home Value",
+          "Improved Aesthetics",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "Yes, in most cases, a permit is required for deck and patio construction. We'll handle all necessary permit applications and inspections to ensure compliance with local regulations."
+          },
+          {
+            "question": "What materials are best for a deck or patio?",
+            "answer": "The best materials depend on your budget, style preferences, and the climate. We offer a variety of options, including wood, composite, and concrete. We can help you choose a material that is durable, low-maintenance, and aesthetically pleasing."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The duration varies depending on the size and complexity of the project, but most decks and patios can be built within a few weeks. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with expert roofing repair and replacement.",
+        "description": "Power Construction USA - LLC provides comprehensive roofing services to homeowners in Philadelphia. We understand the importance of a sturdy and reliable roof, especially in the face of harsh weather conditions. We offer roof repair, roof replacement, and roof maintenance services. We work with a variety of roofing materials, including asphalt shingles, slate, and metal. We provide thorough inspections to identify any potential problems and offer cost-effective solutions. From patching leaks to replacing entire roofs, we deliver quality workmanship and lasting results. We are familiar with the unique roofing challenges presented by Philadelphia's row houses and historic buildings. We ensure that your roof is properly installed and maintained, protecting your home from water damage and the elements.",
+        "process": [
+          "Step 1: Roof Inspection & Assessment",
+          "Step 2: Estimate & Material Selection",
+          "Step 3: Roof Repair or Replacement",
+          "Step 4: Clean Up & Inspection"
+        ],
+        "benefits": [
+          "Protection from the Elements",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs that you may need a new roof include leaks, missing shingles, and excessive granule loss. We offer free roof inspections to assess the condition of your roof and recommend the best course of action."
+          },
+          {
+            "question": "What type of roofing material is best for my home?",
+            "answer": "The best roofing material depends on your budget, style preferences, and the climate. We can help you choose a material that is durable, aesthetically pleasing, and appropriate for your home's architecture."
+          },
+          {
+            "question": "How long does a new roof last?",
+            "answer": "The lifespan of a roof depends on the material and the quality of installation. Asphalt shingle roofs typically last 20-30 years, while slate and metal roofs can last 50 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Enhance your home's curb appeal and protection with new siding.",
+        "description": "Upgrade your home's exterior with new siding from Power Construction USA - LLC. We offer a wide variety of siding options, including vinyl, wood, and fiber cement. We install siding that is both beautiful and durable, protecting your home from the elements and enhancing its curb appeal. We handle all aspects of the project, from removal of old siding to installation of new siding and trim. We pay close attention to detail and ensure that your new siding is properly installed and sealed, preventing water damage and improving energy efficiency. We understand the architectural styles prevalent in Philadelphia and can help you choose a siding option that complements your home's design. We are experienced in working with row houses and other historic buildings, ensuring that your new siding is installed with care and precision.",
+        "process": [
+          "Step 1: Consultation & Material Selection",
+          "Step 2: Old Siding Removal",
+          "Step 3: New Siding Installation",
+          "Step 4: Finishing Touches & Inspection"
+        ],
+        "benefits": [
+          "Improved Curb Appeal",
+          "Increased Home Value",
+          "Enhanced Protection from the Elements",
+          "Improved Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of new siding?",
+            "answer": "New siding can improve your home's curb appeal, increase its value, protect it from the elements, and improve its energy efficiency."
+          },
+          {
+            "question": "What type of siding is best for my home?",
+            "answer": "The best type of siding depends on your budget, style preferences, and the climate. We offer a variety of options and can help you choose a siding that is durable, aesthetically pleasing, and appropriate for your home."
+          },
+          {
+            "question": "How long does it take to install new siding?",
+            "answer": "The duration varies depending on the size of your home and the type of siding being installed, but most siding projects take between 1-2 weeks. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC is proud to serve the vibrant city of Philadelphia, PA, offering comprehensive remodeling services to homeowners and businesses alike. From historic row homes to modern condos, our team is equipped to handle any project, big or small. We understand the unique architectural landscape of Philadelphia and are committed to preserving its character while enhancing your living or working space.\n\nWe offer a wide range of remodeling services in Philadelphia, including kitchen and bathroom renovations, basement finishing, additions, and whole-house remodels. Our experienced team will work closely with you to bring your vision to life, ensuring your project is completed on time and within budget. We pride ourselves on our quality workmanship and attention to detail, ensuring your complete satisfaction.",
+        "localContext": "Philadelphia is known for its rich history, diverse neighborhoods, and passionate sports fans. Our team understands the local building codes and permit requirements, ensuring a smooth and hassle-free remodeling experience.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bensalem"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC extends its expert remodeling services to Upper Darby, PA, a diverse and thriving community just outside of Philadelphia. We're dedicated to helping Upper Darby residents transform their homes into beautiful and functional spaces that meet their unique needs and lifestyles.\n\nWhether you're looking to update your kitchen, renovate your bathroom, or add an addition to your home, our team has the skills and experience to get the job done right. We are committed to providing exceptional customer service and quality workmanship on every project.",
+        "localContext": "Upper Darby is a vibrant community with a mix of residential and commercial areas. We understand the local building regulations and are committed to providing services that meet the specific needs of Upper Darby residents.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Drexel Hill",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Bensalem",
+        "slug": "bensalem-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC is pleased to offer our remodeling services to the residents of Bensalem, PA. As a growing community in Bucks County, Bensalem offers a mix of residential and commercial properties, each with its own unique remodeling needs.\n\nWe provide a wide range of remodeling services in Bensalem, including kitchen and bathroom remodeling, basement finishing, and home additions. Our team is dedicated to delivering exceptional results and ensuring your complete satisfaction.",
+        "localContext": "Bensalem is a growing community with a strong sense of local pride. We are familiar with the local building codes and permit requirements, ensuring a seamless remodeling experience.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Feasterville-Trevose",
+          "Cornwells Heights"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC provides top-notch remodeling services to Drexel Hill, PA, a charming community in Delaware County. We understand the unique character of Drexel Hill homes and are committed to providing remodeling solutions that enhance their beauty and functionality.\n\nFrom kitchen and bathroom renovations to whole-house remodels, our team has the expertise to handle any project. We pride ourselves on our attention to detail and commitment to customer satisfaction.",
+        "localContext": "Drexel Hill is a well-established community with a strong sense of neighborhood pride. We understand the local building codes and are dedicated to providing services that meet the specific needs of Drexel Hill residents.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Springfield",
+          "Havertown"
+        ]
+      },
+      {
+        "city": "Springfield",
+        "slug": "springfield-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC is dedicated to serving the residents of Springfield, PA, with exceptional remodeling services. Located in Delaware County, Springfield offers a mix of residential styles, and we are experienced in working with them all.\n\nOur team offers a comprehensive range of remodeling services, including kitchen and bathroom renovations, basement finishing, and home additions. We are committed to delivering high-quality workmanship and exceeding your expectations.",
+        "localContext": "Springfield is a family-friendly community with a strong emphasis on education and community involvement. We understand the local building regulations and are committed to providing services that meet the specific needs of Springfield residents.",
+        "nearbyAreas": [
+          "Drexel Hill",
+          "Swarthmore",
+          "Media"
+        ]
+      },
+      {
+        "city": "Media",
+        "slug": "media-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC is proud to offer remodeling services to Media, PA, the county seat of Delaware County. Media is known for its charming downtown and beautiful homes, and we are dedicated to helping residents enhance their properties.\n\nWe offer a full range of remodeling services in Media, including kitchen and bathroom renovations, basement finishing, and home additions. Our team is committed to providing exceptional customer service and quality workmanship on every project.",
+        "localContext": "Media is a historic town with a vibrant arts and culture scene. We understand the local building codes and are committed to preserving the character of Media homes while providing modern remodeling solutions.",
+        "nearbyAreas": [
+          "Swarthmore",
+          "Springfield",
+          "Chester"
+        ]
+      },
+      {
+        "city": "Swarthmore",
+        "slug": "swarthmore-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC provides expert remodeling services to Swarthmore, PA, a charming borough known for its college and beautiful surroundings. We are dedicated to helping Swarthmore residents create homes that reflect their unique style and needs.\n\nOur team offers a wide range of remodeling services in Swarthmore, including kitchen and bathroom renovations, basement finishing, and home additions. We are committed to providing exceptional customer service and quality workmanship on every project.",
+        "localContext": "Swarthmore is a vibrant community with a strong emphasis on education and sustainability. We understand the local building codes and are committed to providing services that meet the specific needs of Swarthmore residents.",
+        "nearbyAreas": [
+          "Media",
+          "Springfield",
+          "Wallingford"
+        ]
+      },
+      {
+        "city": "Chester",
+        "slug": "chester-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC extends its remodeling services to Chester, PA, a city with a rich history and diverse population. We are committed to helping Chester residents improve their homes and create safe, comfortable living spaces.\n\nWe offer a variety of remodeling services in Chester, including kitchen and bathroom renovations, basement finishing, and home repairs. Our team is dedicated to providing affordable and reliable services to the Chester community.",
+        "localContext": "Chester is a city with a strong sense of community and a commitment to revitalization. We understand the local building codes and are dedicated to providing services that meet the specific needs of Chester residents.",
+        "nearbyAreas": [
+          "Media",
+          "Trainer",
+          "Eddystone"
+        ]
+      },
+      {
+        "city": "Norristown",
+        "slug": "norristown-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC proudly serves Norristown, PA, offering comprehensive remodeling solutions to homeowners and businesses in this Montgomery County seat. From historic homes to modern commercial spaces, our team is equipped to handle diverse projects.\n\nWe provide a full spectrum of remodeling services in Norristown, including kitchen and bathroom renovations, basement finishing, additions, and commercial build-outs. Our experienced team collaborates closely with clients to realize their visions, ensuring projects are completed on time and within budget. We emphasize quality craftsmanship and meticulous attention to detail.",
+        "localContext": "Norristown is a diverse community with a blend of historic charm and modern development. Our team understands the local regulations and permit requirements, ensuring a seamless remodeling process.",
+        "nearbyAreas": [
+          "Bridgeport",
+          "Conshohocken",
+          "King of Prussia"
+        ]
+      },
+      {
+        "city": "King of Prussia",
+        "slug": "king-of-prussia-pa",
+        "state": "PA",
+        "content": "Power Construction USA - LLC is delighted to offer remodeling services in King of Prussia, PA, a major commercial and residential hub in Montgomery County. We cater to the diverse remodeling needs of homeowners and businesses in this thriving area.\n\nOur services in King of Prussia encompass kitchen and bathroom remodeling, basement finishing, home additions, and commercial renovations. We work closely with our clients to bring their ideas to life, ensuring projects are completed efficiently and to the highest standards of quality.",
+        "localContext": "King of Prussia is known for its extensive shopping mall and growing business sector. We are familiar with local building codes and committed to providing services tailored to the needs of its residents and businesses.",
+        "nearbyAreas": [
+          "Norristown",
+          "Wayne",
+          "Conshohocken"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Power Construction USA - LLC completely transformed my outdated kitchen! They helped me design a space that is both beautiful and functional. The team was professional, communicative, and completed the project on time and within budget. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "I hired Power Construction USA - LLC to remodel my small bathroom in my Philly row home. They did a great job maximizing the space and creating a modern, functional bathroom. There were a couple of minor hiccups along the way, but they addressed them promptly and professionally. Overall, I'm very happy with the results.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Basement Remodel",
+        "text": "Power Construction USA - LLC turned my unfinished basement into a cozy and inviting family room. They handled all the details, from framing and insulation to electrical and plumbing. The team was reliable, trustworthy, and delivered a high-quality finished product. I highly recommend them for any basement remodeling project.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Roofing Services",
+        "text": "After the last big Nor'easter, I needed some serious roof repair. Power Construction USA - LLC came out quickly, assessed the damage, and provided a fair quote. They completed the repairs efficiently and professionally, and my roof is now leak-free. I'm very grateful for their prompt and reliable service.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Emily C.",
+        "rating": 4,
+        "service": "Deck Construction",
+        "text": "I hired Power Construction USA - LLC to build a new deck in my backyard. They did a fantastic job designing and building a deck that is both beautiful and functional. The team was professional and courteous, and they completed the project on time and within budget. The only reason I didn't give them a 5-star rating is because there were a few minor delays due to weather.",
+        "date": "2024-05-01"
+      },
+      {
+        "name": "Thomas P.",
+        "rating": 5,
+        "service": "Siding Installation",
+        "text": "Power Construction USA - LLC installed new siding on my house, and it looks amazing! They were very professional and efficient, and they did a great job cleaning up after themselves. My house looks brand new, and I've already received compliments from my neighbors. I highly recommend them for any siding project.",
+        "date": "2024-02-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Power Construction USA - LLC | Philadelphia Remodeling",
+        "description": "Top-rated remodeling contractor in Philadelphia. Kitchens, bathrooms, basements, roofing, siding, decks. Free estimates. Call +13478338215"
+      },
+      "about": {
+        "title": "About Power Construction USA - LLC | Philadelphia Contractor",
+        "description": "Learn about Power Construction USA - LLC, a trusted remodeling contractor serving Philadelphia and surrounding areas. Quality workmanship and reliable service."
+      },
+      "services": {
+        "title": "Remodeling Services | Power Construction USA - LLC",
+        "description": "Power Construction USA - LLC offers a wide range of remodeling services in Philadelphia. Kitchens, bathrooms, basements, roofing, siding, decks. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Us | Power Construction USA - LLC | Philadelphia",
+        "description": "Contact Power Construction USA - LLC for all your remodeling needs in Philadelphia. Get a free estimate today! Call +13478338215"
+      },
+      "reviews": {
+        "title": "Power Construction USA - LLC Reviews | Philadelphia Contractor",
+        "description": "Read reviews from satisfied customers of Power Construction USA - LLC. See why we're a trusted remodeling contractor in Philadelphia."
+      },
+      "service-areas": {
+        "title": "Philadelphia Remodeling Contractor | Service Areas",
+        "description": "Power Construction USA - LLC serves Philadelphia and surrounding areas. Contact us for remodeling services in your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-remodeling": "/images/service-basement-remodeling.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-installation": "/images/service-siding-installation.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-remodeling": {
+        "src": "/images/service-basement-remodeling.webp",
+        "srcset": "/images/service-basement-remodeling-400w.webp 400w, /images/service-basement-remodeling-800w.webp 800w, /images/service-basement-remodeling-1200w.webp 1200w, /images/service-basement-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

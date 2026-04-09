@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-power-construction-usa-llc.dream-surge.com/sitemap-index.xml
